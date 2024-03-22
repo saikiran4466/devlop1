@@ -1,0 +1,1 @@
+{"pipelineKey":"0362374b-121f-423c-b7e2-609430a73fd4","name":"Pipeline_1985","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"cfd4d5ac-cde7-4247-bbb8-155c767222a2:input:1\",\"type\":\"Engine\",\"engineName\":\"148livy148\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}

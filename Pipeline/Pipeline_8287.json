@@ -1,0 +1,1 @@
+{"pipelineKey":"79d26d05-ff7d-4bea-990d-5b4c4963b878","name":"Pipeline_8287","description":"","definition":"{\"workerLimit\":3,\"tasks\":[{\"parent\":[\"Terminator\"],\"children\":[],\"iteratee\":{},\"id\":\"DatabricksbH2Fd\",\"label\":\"AzureCluster\",\"type\":\"AzureCluster\"},{\"children\":[\"DatabricksbH2Fd\"],\"iteratee\":{},\"id\":\"Terminator\",\"type\":\"Terminator\"}]}"}
