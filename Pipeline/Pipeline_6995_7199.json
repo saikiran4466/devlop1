@@ -1,0 +1,1 @@
+{"pipelineKey":"5f26752a-63a7-4164-8956-d1bd3fbb2a0d","name":"Pipeline_6995_7199","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"55aebd5c07d04d0887ff88a4e696ee95:input:1\",\"type\":\"Engine\",\"engineName\":\"livy142_NEW\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}

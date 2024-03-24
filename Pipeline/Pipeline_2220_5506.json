@@ -1,0 +1,1 @@
+{"pipelineKey":"1b6c19d9-98eb-4ef8-b5bf-64efd09faae6","name":"Pipeline_2220_5506","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"efc9e94f-ddd6-4afb-84ba-2c08b6509429:input:1\",\"type\":\"Engine\",\"engineName\":\"livy142_NEW\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}

@@ -1,0 +1,1 @@
+{"pipelineKey":"7e531011-b2f4-4f6d-883c-38f8093526a1","name":"Pipeline_4731_1038","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"298858286778429e9399142c88658c18:input:1\",\"type\":\"Engine\",\"engineName\":\"livy142_NEW\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}
