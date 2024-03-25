@@ -1,1 +1,1 @@
-{"name":"Datamodel_6260","description":null,"dataSourceName":"MySQL sh","tableDataModels":[{"tableName":"data","schemaName":"public","description":null,"columns":null,"rules":null,"relations":null,"sdvTemplate":null,"sampleDataSettingsJson":null,"datasourceName":"MySQL","datasourceType":"MySQL sh","uniqueColumns":null}],"workschemaName":"Oracle_WS__28_12_26_39_756","dmkey":"d63d7419-40fd-452a-9607-099ab1bb7a05"}
+{"name":"Datamodel_6260","description":null,"dataSourceName":null,"tableDataModels":[],"workschemaName":null,"dmkey":"d63d7419-40fd-452a-9607-099ab1bb7a05"}
