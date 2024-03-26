@@ -1,0 +1,1 @@
+{"pipelineKey":"adefe670-d3a6-4913-9cda-7b6b688313a2","name":"Pipeline_4505","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"e7bfc1f54b1249f8bfb666826d2ab3c8:input:1\",\"type\":\"Engine\",\"engineName\":\"148livy148\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}
