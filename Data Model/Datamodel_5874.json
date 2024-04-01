@@ -1,1 +1,1 @@
-{"name":"Datamodel_5874","description":null,"dataSourceName":"MySQL8","tableDataModels":[],"workschemaName":null,"dmkey":"50c47bdb-9a78-48d4-88a8-84410f232435"}
+{"name":"Datamodel_5874","description":null,"dataSourceName":"MySQL8","tableDataModels":[{"tableName":"data","schemaName":"public","description":null,"columns":null,"rules":null,"relations":null,"sdvTemplate":null,"sampleDataSettingsJson":null,"datasourceName":"MySQL","datasourceType":"MySQL8","uniqueColumns":null}],"workschemaName":null,"dmkey":"50c47bdb-9a78-48d4-88a8-84410f232435"}
