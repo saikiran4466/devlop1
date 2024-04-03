@@ -1,0 +1,1 @@
+{"pipelineKey":"2f241cd8-834d-4797-ac6a-2abdd7330ba7","name":"Pipeline_675_9422","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"c49d092d-20a8-40e6-8bde-ba07a1997e91:input:1\",\"type\":\"Engine\",\"engineName\":\"146_livy\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}
