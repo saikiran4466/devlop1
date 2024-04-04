@@ -1,0 +1,1 @@
+{"pipelineKey":"92dd7009-dc7d-47e3-b54a-535c40d6d88e","name":"Pipeline_6798_1980","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"fc7daa05-e5dc-4625-9585-0aeec34eb695:input:1\",\"type\":\"Engine\",\"engineName\":\"148_Livy\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}

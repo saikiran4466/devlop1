@@ -1,0 +1,1 @@
+{"pipelineKey":"52cdbe15-6756-40d4-a3dc-25167f52cc69","name":"Pipeline_675_4616","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"c49d092d-20a8-40e6-8bde-ba07a1997e91:input:1\",\"type\":\"Engine\",\"engineName\":\"148_Livy\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}
