@@ -1,0 +1,1 @@
+{"pipelineKey":"7fa60306-9777-4c0e-8505-bd639c9d86ed","name":"Pipeline_1318","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"eab82b5f1aac42cfb04774c64197e349:input:1\",\"type\":\"Engine\",\"engineName\":\"148livy148\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}
